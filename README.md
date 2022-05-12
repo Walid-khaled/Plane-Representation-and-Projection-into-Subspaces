@@ -29,5 +29,5 @@ Tasks are described in the TASK.pdf file attached above.
 ---
 ### Results
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/168076206-83792ca3-b8e0-48fa-8e19-f209cafcd7a8.png" width="300" height="200" /></p>
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/168076668-fb10b23e-d7fb-4e15-a7c4-07d710cb389d.png" width="300" height="200" /></p>
+<img src="https://user-images.githubusercontent.com/90580636/168076668-fb10b23e-d7fb-4e15-a7c4-07d710cb389d.png" width="300" height="200" />
 
