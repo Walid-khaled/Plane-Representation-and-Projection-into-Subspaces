@@ -31,12 +31,13 @@ Tasks are described in the TASK.pdf file attached above.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/90580636/168076206-83792ca3-b8e0-48fa-8e19-f209cafcd7a8.png" width="300" height="200" />
   <img src="https://user-images.githubusercontent.com/90580636/168076668-fb10b23e-d7fb-4e15-a7c4-07d710cb389d.png" width="300" height="200" />
-</p>
+  <img src="https://user-images.githubusercontent.com/90580636/168133797-75bdb684-ca9c-48de-9fa2-8cb5fa85eeec.png" width="300" height="200" />
 
+</p>
 <p>
-    <em>image_caption</em>
+    <em>task1_1</em> <em>task1_1</em>
+    <em>task1_1</em>
 </p>
 
-![image](https://user-images.githubusercontent.com/90580636/168133797-75bdb684-ca9c-48de-9fa2-8cb5fa85eeec.png)
 
 
