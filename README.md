@@ -9,12 +9,20 @@ Tasks are described in the TASK.pdf file attached above.
 ### Table of Content 
 ```
 ├── src                           <- directory for source files
-|    ├── Camera_Calibration.m     <- contains intrinsic and extrinsic parameters (to be run first)
-|    ├── main.m                   <- contains main script
-|    ├── readPoints.m             <- contains reading manually-defined points from image
-|    ├── CalibrationSession.mat   <- contains CalibrationSession from MATLAB Camera Calibrator APP
+|    ├── drawAxes.m               <- drawAxes function
+|    ├── drawPlane.m              <- drawPlane function
+|    ├── drawLine.m               <- drawLine function
+|    ├── drawSpan.m               <- drawSpan function
+|    ├── drawVector.m             <- drawVector function
+|    ├── task1_1.m   
+|    ├── task1_2.m             
+|    ├── task1_3.m             
+|    ├── task1_4.m             
+|    ├── task2_1.m             
+|    ├── task2_2.m             
+|    ├── Task3.ipynb
 |
-├── dataset                       <- contains 30 images of chessboard for calibration 
-├── Report.pdf                        
+├── TASK.pdf                      <- Task description
+├── Analytical solution.pdf       <- Analytical solutions of the problems               
 └── Readme.md
 ```
