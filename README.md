@@ -1,4 +1,4 @@
-## Subspaces-and-Projection
+## Plane Representation and Projection into Subspaces 
 In this repository, projection into subspaces is and  plane representation are investigated through different examples. It is a solution of Assignment1 in Computational Intelligence course for ROCV master's program at Innopolis University.
 
 ---
