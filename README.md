@@ -28,4 +28,4 @@ Tasks are described in the TASK.pdf file attached above.
 ```
 ---
 ### Results
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/168076206-83792ca3-b8e0-48fa-8e19-f209cafcd7a8.png" width="300" height="100" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/168076206-83792ca3-b8e0-48fa-8e19-f209cafcd7a8.png" width="300" height="200" /></p>
